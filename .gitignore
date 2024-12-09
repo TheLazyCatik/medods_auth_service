@@ -1,0 +1,6 @@
+.env 
+gen/
+docs/
+build/
+*.exe
+*.env*
